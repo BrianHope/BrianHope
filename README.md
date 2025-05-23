@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Brian (aka sudohope)
 
-<!--
-**BrianHope/BrianHope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS + Cybersecurity student documenting my journey into tech, security, and software engineering.
 
-Here are some ideas to get you started:
+### 🔭 Current Focus
+- Preparing for my cybersecurity internship 🔐
+- Mastering Linux terminal commands 🧠
+- Building tools with Python 🐍
+- Exploring networking & traffic analysis with Wireshark 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Stack So Far
+- Python, Bash
+- Linux (Ubuntu, Kali)
+- Wireshark, Nmap, SSH
+- Visual Studio Code, Git
+
+### 🎯 Goals This Year
+- Become confident in Linux and terminal-based workflows
+- Build and document real-world security tools
+- Create content around my tech journey on [TikTok](https://www.tiktok.com/@sudohope) and YouTube
+
+
